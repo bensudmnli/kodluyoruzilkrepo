@@ -9,7 +9,7 @@ Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturd
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```bash
-git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
+git clone https://github.com/bensudmnli/kodluyoruzilkrepo
 ```
 
 ## Usage
@@ -28,3 +28,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![github](figures/github.com/bensudmnli/kodluyoruzilkrepo/blob/main/Ekran%20görüntüsü_20230214_164221.png)
